@@ -1,5 +1,5 @@
 # WeDesign
-The main Web page for "WeDesign" created with: HTML5, CSS, JavaScript, jQuery
+The main Web page for "WeDesign" created with: HTML5, CSS, JavaScript
 
 
 The page is sample of main Web page for a company called WeDesign for example.
